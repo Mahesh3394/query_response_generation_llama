@@ -1,0 +1,6 @@
+langchain
+torch
+uvicorn
+fastapi
+ctransformers
+pydantic
